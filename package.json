@@ -1,0 +1,11 @@
+{
+  "name": "ana-carolina",
+  "version": "1.0.0",
+  "description": "Exercicios de javascript",
+  "main": "exercicios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Carolina Almeida Paula",
+  "license": "ISC"
+}
